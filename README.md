@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SmartBrain007
 - 👀 I’m interested in AI, App and Web Development
-- 🌱 I’m currently learning Python,Javascript,Html,CSS
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to freelance online
 
 <!---
